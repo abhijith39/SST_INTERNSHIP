@@ -1,0 +1,20 @@
+
+#para1{
+    text-align: center;
+    color: black;
+    background-color:blue;
+}
+#para2{
+    text-align: center;
+    color: black;
+    background-color: red;
+}
+body{
+    background-color:lightblue;
+}
+head{
+    background-color: white;
+}
+#para3{
+    background-color: white;
+}
